@@ -1,1 +1,2 @@
-# Minishell1-Epitech
+# Minishell1 
+//EPITECH project
